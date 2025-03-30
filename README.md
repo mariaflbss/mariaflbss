@@ -1,34 +1,56 @@
-##   Olá, eu sou a Maria Fernanda Laboissiere!
-<div align="center">
-  <a href="https://github.com/mariaflbss">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mariaflbss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaflbss&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-<div style="display: inline_block"><br>
-            <img src="https://skillicons.dev/icons?i=python" />
-            <img src="https://skillicons.dev/icons?i=cs" />
-            <img src="https://skillicons.dev/icons?i=git" />
-            <img src="https://skillicons.dev/icons?i=c" />
-            <img src="https://skillicons.dev/icons?i=css" />
-            <img src="https://skillicons.dev/icons?i=html" />
-            <img src="https://skillicons.dev/icons?i=java" />
-            <img src="https://skillicons.dev/icons?i=figma" />
-            <img height="48" width="48" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg'>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e3a8a&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bcd4&size=30&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Maria+Fernanda!+:%29)](https://git.io/typing-svg)
+
+## 👋 Olá! 
+
+Atualmente, sou estudante de Desenvolvimento de Software Multiplataforma na Fatec São José dos Campos, com formação técnica em Administração. Sou apaixonada por tecnologia e inovação, e meu objetivo é me tornar uma Desenvolvedora Web Full Stack.
+
+🔭 Estou aprimorando minhas habilidades em HTML, CSS, JavaScript, Python, MySQL e C# por meio de projetos práticos. Sou proativa, comunicativa e gosto de trabalhar em equipe para enfrentar desafios de forma ágil e eficaz.
+
+💬 Estou sempre em busca de aprender novas tecnologias e criar soluções inovadoras no mundo digital.
+
+---
+
+## 🚀 Skills
+
+<div style="display: inline_block">
+<img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&color=00bcd4" />
+<img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=00bcd4" />
+<img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=00bcd4" />
+<img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=00bcd4" />
+<img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&color=00bcd4" />
+<img align="center" alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white&color=00bcd4" />
+
+
+
+
 
 </div>
-  
-  ##
- 
-<div> 
-  <a href = "mailto:mariaf.laboissiere.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/maria-fernanda-de-oliveira-laboissiere-25362b353/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  <br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/vic1707/vic1707/blob/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/vic1707/vic1707/blob/output/github-snake.svg">
-  <img alt="github-snake" src="https://github.com/vic1707/vic1707/blob/output/github-snake.svg">
-</picture>
-<br>
- 
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mariaflbss&show_icons=true&count_private=true&hide_border=true&title_color=00bcd4&icon_color=00bcd4&text_color=c9d1d9&bg_color=1e3a8a" alt="Maria Fernanda's GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaflbss&layout=compact&hide_border=true&title_color=00bcd4&text_color=00bcd4&bg_color=1e3a8a" alt="Maria Fernanda's Top Languages" />
 </div>
+
+---
+
+## 📩 Contato
+
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/maria-fernanda-laboissiere-25362b353/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%2300bcd4?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mariaf.laboissiere@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%2300bcd4?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e3a8a&height=120&section=footer"/>
+
+
+
