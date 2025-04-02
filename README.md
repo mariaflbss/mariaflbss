@@ -6,7 +6,7 @@
 
 Atualmente, sou estudante de Desenvolvimento de Software Multiplataforma na Fatec São José dos Campos, com formação técnica em Administração. Sou apaixonada por tecnologia e inovação, e meu objetivo é me tornar uma Desenvolvedora Web Full Stack.
 
-🔭 Estou aprimorando minhas habilidades em HTML, CSS, JavaScript, Python, MySQL e C# por meio de projetos práticos. Sou proativa, comunicativa e gosto de trabalhar em equipe para enfrentar desafios de forma ágil e eficaz.
+🔭 Estou aprimorando minhas habilidades em HTML, CSS, JavaScript, Python, MySQL e C# por meio de projetos práticos. Sou proativa, comunicativa, adaptável, e trabalho bem em equipe.
 
 💬 Estou sempre em busca de aprender novas tecnologias e criar soluções inovadoras no mundo digital.
 
