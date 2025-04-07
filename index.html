@@ -1,38 +1,202 @@
 <!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8">
-    <title> Maria's Library Home</title>
-</head>
-<body>
-    <table width="900" align="center">
-        <tr>
-            <td><img src="imagens/logo.png" alt="Logo"> </td>
-            <td align="right">
-                <a href="index.html">Home</a> |
-                <a href="quem_sou.html">Quem sou</a> |
-                <a href="contato.html">Contato</a>
-            </td>
-        </tr>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="apple-touch-icon" sizes="180x180" href="img.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="img.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="img.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <title>Portfólio</title>
+  </head>
+  <body>
 
-        <tr>
-            <td colspan="2">
-                <img src="imagens/principal.png" alt="Página Principal" />
-            </td>
-        </tr>
+    <div class="container">
 
-        <tr>
-            <td colspan="2">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ut tellus ac lorem porttitor aliquet...</p>
-                <p>Aenean congue erat erat, nec facilisis justo sollicitudin ac...</p>
-            </td>
-        </tr>
+        <div class="teste">
+          <div class="line" id="line1"></div>
+          <div class="line" id="line2"></div>
+          <div class="line" id="line3"></div>
+        </div>  
 
-        <tr>
-            <td align="center">
-                <h4>Todos os direitos reservados</h4>
-            </td>
-        </tr>
-    </table>
-</body>
+        <header id="home">
+            <div class="">
+                <img src="" alt="">
+            </div>
+            <div class="banner">
+                <h1>Web Developer</h1>
+                <p> </p>
+                <button>Saiba mais</button>
+            </div>
+        </header>
+
+        <aside class="sidebar">
+          <nav>
+            <ul class="menu">
+              <li class="menu-item"><a href="#" class="menu-link">Home</a></li>
+              <li class="menu-item"><a href="#conhecimentos" class="menu-link">Conhecimento</a></li>
+              <li class="menu-item"><a href="#projetos" class="menu-link">Projetos</a></li>
+              <li class="menu-item"><a href="#contato" class="menu-link">Contato</a></li>
+            </ul>
+          </nav>
+          <div class="social-media">
+            <a href="#"><i class="fab fa-linkedin"></i></a>
+            <a href="#"><i class="fab fa-github-alt"></i></a>
+            <a href="#"><i class="fab fa-email"></i></a>
+          </div>
+        </aside>
+
+        <section class="sessao-conhecimentos" id="conhecimentos">
+          <div class="sessao-header">
+            <h1>Conhecimentos</h1>
+          </div>
+          <div class="conhecimentos">
+            <div class="conhecimento">
+              <div class="conhecimento-header">
+                <i class="fab fa-html5"></i>
+                <h3>HTML</h3>
+              </div>
+              <div class="conhecimento-text">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui vel obcaecati eaque quos, labore quibusdam incidunt dolores vitae velit voluptates esse omnis enim, dolorem eveniet. Rem ab obcaecati totam ipsum!</p>
+              </div>
+            </div>
+            <div class="conhecimento">
+              <div class="conhecimento-header">
+                <i class="fab fa-css3-alt"></i>
+                <h3>CSS</h3>
+              </div>
+              <div class="conhecimento-text">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore pariatur asperiores incidunt quod, sed aspernatur eos commodi ex nostrum consequuntur aut vero cum illum perferendis earum, eveniet hic itaque. Quod.</p>
+              </div>
+            </div>
+            <div class="conhecimento">
+              <div class="conhecimento-header">
+                <i class="fas fa-python"></i>
+                <h3>Python</h3>
+              </div>
+              <div class="conhecimento-text">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa ex eius voluptatem deleniti alias commodi doloremque aspernatur id adipisci quia ea, distinctio maxime, at nemo. Officiis suscipit excepturi quia aut?</p>
+              </div>
+            </div>
+            <div class="conhecimento">
+              <div class="conhecimento-header">
+                <i class="fab fa-js"></i>
+                <h3>Javascript</h3>
+              </div>
+              <div class="conhecimento-text">
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam quas facere alias, reprehenderit ullam quibusdam itaque dolor nulla odio inventore culpa molestiae porro ea ad illo, quos dicta ratione quisquam?
+                </p>
+              </div>
+            </div>
+            <div class="conhecimento">
+              <div class="conhecimento-header">
+                <i class="fab fa-figma"></i>
+                <h3>Figma</h3>
+              </div>
+              <div class="conhecimento-text">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae sequi, quas illo dolor totam voluptas pariatur harum blanditiis veritatis culpa doloremque aspernatur nesciunt dicta iure fuga similique ad, ut impedit.</p>
+              </div>
+            </div>
+            <div class="conhecimento">
+              <div class="conhecimento-header">
+                <i class="fab fa-github"></i>
+                <h3>Git e GitHub</h3>
+              </div>
+              <div class="conhecimento-text">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet facilis distinctio quaerat eaque ratione, molestias incidunt a iusto, unde quos magnam ullam exercitationem velit alias, fuga in explicabo ex laborum!</p>
+              </div>
+            </div>
+            <div class="conhecimentos-img-wrapper">
+              <img src="img.png" alt="imagem conhecimento">
+            </div>
+          </div>
+        </section>
+
+        <div class="sessao-projetos" id="projetos">
+          <div class="sessao-header">
+            <h1>Projetos</h1>
+          </div>
+          <div class="projetos">
+            <div class="card">
+              <div class="card-img-wrapper">
+                <img src="img.jpg" alt="projeto 1" />
+              </div>
+              <div class="card-info">
+                <h2> img projeto</h2>
+                <h3> projeto</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate ducimus vero maxime amet magnam doloribus eos consequatur expedita architecto hic?</p>
+                <button class="btn">Saiba Mais</button>
+              </div>
+            </div>
+            <div class="card">
+              <div class="card-img-wrapper">
+                <img src="img.jpg" alt="projeto 1" />
+              </div>
+              <div class="card-info">
+                <h2> img projeto</h2>
+                <h3>projeto</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores, vero aliquam? Pariatur libero voluptas ipsam ullam consectetur ab facilis cumque.</p>
+                <button class="btn">Saiba Mais</button>
+              </div>
+            </div>
+            <div class="card">
+              <div class="card-img-wrapper">
+                <img src="img.jpg" alt="projeto 1" />
+              </div>
+              <div class="card-info">
+                <h2> img projeto</h2>
+                <h3> projeto </h3>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est pariatur soluta doloremque tempore nisi placeat, eveniet voluptate recusandae. Eius, sapiente?</p>
+                <button class="btn">Saiba Mais</button>
+              </div>
+            </div>
+          </div>
+
+        </section>
+
+        <section class="sessao-contato" id="contato">
+          <div class="contato-wrapper">
+            <div class="contato-left"></div>
+            <div class="contato-right">
+              <h1>Contato</h1>
+              <form>
+                <div class="input-group">
+                  <input type="text" class="field" id="nome">
+                  <label for="nome" class="field-label">Nome</label>
+                </div>
+                <div class="input-group">
+                  <input type="text" class="field" id="email">
+                  <label for="email" class="field-label">E-mail</label>
+                </div>
+                <div class="input-group">
+                  <textarea class="field" id="mensagem"></textarea>
+                  <label for="mensagem" class="field-label">Mensagem</label>
+                </div>
+                <button type="submit" class="btn btn-submit">Enviar</button>
+              </form>
+            </div>
+          </div>
+        </section>
+      <footer>
+          <div class="footer-content">
+            <p>
+              Copyright &copy; 2025, Maria Fernanda Laboissiere - Todos os diretos reservados
+            </p>
+            <div class="social-list">
+              <ul>
+                <li><a href="https://www.linkedin.com/in/maria-fernanda-laboissiere-25362b353/"><i class="fab fa-linkedin"></i></a></li>
+                <li><a href="https://github.com/mariaflbss"><i class="fab fa-github"></i></a></li>
+                <li><a href="mariaf.laboissiere@gmail.com"><i class="fab fa-gmail"></i></a></li>
+              </ul>
+            </div>
+          </div>
+        </footer>
+        <a href="#home" id="link-topo">
+          <i class="fas fa-arrow-up"></i>
+        </a>
+    </div>
+   </body>
+
+   <script src="script.js"></script>
 </html>
