@@ -39,8 +39,10 @@ Atualmente, sou estudante de Desenvolvimento de Software Multiplataforma na Fate
 ---
 
 ## 📩 Contato
-
 <div align="center"> 
+<img src="https://i.pinimg.com/originals/14/0f/eb/140febd2624efda64c54eb55ea5f5976.gif" width="100px">
+</div>
+<div align="center">
   <a href="https://www.linkedin.com/in/maria-fernanda-laboissiere-25362b353/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%2300bcd4?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
