@@ -21,7 +21,6 @@ Atualmente, sou estudante de Desenvolvimento de Software Multiplataforma na Fate
     <img src="https://skillicons.dev/icons?i=typescript">
     <img src="https://skillicons.dev/icons?i=bootstrap">
     <img src="https://skillicons.dev/icons?i=arduino">
-    <img src="https://skillicons.dev/icons?i=git">
     <img src="https://skillicons.dev/icons?i=python">
     <img src="https://skillicons.dev/icons?i=mysql">
     <img src="https://skillicons.dev/icons?i=flask">
