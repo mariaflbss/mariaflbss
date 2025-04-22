@@ -1,8 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=fdf4ff&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a855f7&size=30&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+a+Maria+Fernanda!+:%29)](https://git.io/typing-svg)
 
-##  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Olá! 
+##  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Olá Devs! 
 
 Atualmente, sou estudante de Desenvolvimento de Software Multiplataforma na Fatec São José dos Campos, com formação técnica em Administração. Sou apaixonada por tecnologia e inovação, e meu objetivo é me tornar uma Desenvolvedora Web Full Stack.
 
@@ -12,7 +11,7 @@ Atualmente, sou estudante de Desenvolvimento de Software Multiplataforma na Fate
 
 ---
 
-## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjhyNGV2b3Z6MzMxYjIxdTd4cjhsNjZteGdpZzE4ZGxkMW1wNzR0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px"> Tecnologias e Ferramentas
+## 📌 Tecnologias e Ferramentas
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html">
@@ -32,7 +31,7 @@ Atualmente, sou estudante de Desenvolvimento de Software Multiplataforma na Fate
 
 ---
 
-## <img src="https://media4.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mariaflbss&show_icons=true&count_private=true&hide_border=true&title_color=a855f7&icon_color=a855f7&text_color=000000&bg_color=fdf4ff" alt="Maria Fernanda's GitHub Stats" /> 
@@ -41,7 +40,7 @@ Atualmente, sou estudante de Desenvolvimento de Software Multiplataforma na Fate
 
 ---
 
-## <img src="https://cdn-icons-gif.flaticon.com/15370/15370775.gif" width="30px"> Contato
+## 📩 Contato
 
 
 <div align="center">
@@ -53,7 +52,7 @@ Atualmente, sou estudante de Desenvolvimento de Software Multiplataforma na Fate
   </a>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=fdf4ff&height=120&section=footer"/>
+
 
 
 
