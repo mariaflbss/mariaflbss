@@ -4,7 +4,11 @@
     box-sizing: border-box;
     font-family: 'Quicksand', sans-serif;
   }
-  
+
+  html {
+      scroll-behavior: smooth;
+    }
+
   body {
     height: 100vh;
     padding-top: 80px;
