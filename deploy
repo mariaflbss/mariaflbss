@@ -1,6 +1,0 @@
-{
-  "outputDirectory": "src",
-  "staticFiles": {
-    "docs": "docs"
-  }
-}
