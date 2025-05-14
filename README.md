@@ -2,7 +2,7 @@
 
 Sou uma desenvolvedora de software, apaixonada por tecnologia, design e inovação.
 >**Acesse meu portfólio online:**  
-🔗 [mariaflbss.vercel.app](https://mariaflbss-isgv.vercel.app/)
+🔗 https://mariaflbss.github.io/portifolio/
 
 ---
 
