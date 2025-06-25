@@ -34,9 +34,6 @@ Sou uma desenvolvedora de software, apaixonada por tecnologia, design e inova√ß√
   <a href="https://www.linkedin.com/in/maria-fernanda-laboissiere-25362b353/" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/-LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
-  <a href="https://github.com/mariaflbss" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/-GitHub-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
-  </a>
 </div>
 
 
