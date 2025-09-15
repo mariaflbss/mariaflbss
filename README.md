@@ -2,7 +2,7 @@
 
 Sou uma desenvolvedora de software, apaixonada por tecnologia, design e inovação.
 >**Acesse meu portfólio online:**  
-🔗 [Clique aqui para ver meu portifólio](https://mariaflbss.github.io/meu-portif-lio/)
+🔗 [Clique aqui para ver meu portifólio](https://mariaflbss.github.io/meu-portiflio/)
 
 
 ---
